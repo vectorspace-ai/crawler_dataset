@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # crawler_dataset
 Shouldn't be too hard to run or understand...I hope<br/>
 1. Make a virtual environment folder, generate the virtual environment and put the Crawler_Trainer_Matrix-generator inside here preferably<br/>
@@ -12,3 +13,6 @@ Shouldn't be too hard to run or understand...I hope<br/>
 TODO: include all of the stocks from markets other than NASDAQ<br/>
 Actually assign proper labels to each document so that the vector for each symbol is associated with the words in their associated documents<br/>
 Include contexts like the industries the companies specialize in and maybe even key people<br/>
+=======
+# crawler_dataset
+>>>>>>> 16978b6e3d4f83b011a894102fca8052fda00c69
