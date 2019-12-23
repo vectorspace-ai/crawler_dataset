@@ -23,7 +23,7 @@ def Main():
     level=logging.INFO)
 
 
-	initial_corpus=sys.argv[1]
+	initial_corpus=fix_csv(sys.argv[1])
 
 	processed_corpus=[]
 	for i in range( 0, len(initial_corpus.index)):
